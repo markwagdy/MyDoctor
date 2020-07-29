@@ -1,14 +1,14 @@
 {
   "files": {
     "main.css": "/MyDoctor/static/css/main.18e05f4c.chunk.css",
-    "main.js": "/MyDoctor/static/js/main.c66dc985.chunk.js",
-    "main.js.map": "/MyDoctor/static/js/main.c66dc985.chunk.js.map",
+    "main.js": "/MyDoctor/static/js/main.016d6b75.chunk.js",
+    "main.js.map": "/MyDoctor/static/js/main.016d6b75.chunk.js.map",
     "runtime-main.js": "/MyDoctor/static/js/runtime-main.d24f4491.js",
     "runtime-main.js.map": "/MyDoctor/static/js/runtime-main.d24f4491.js.map",
     "static/js/2.0292a1e1.chunk.js": "/MyDoctor/static/js/2.0292a1e1.chunk.js",
     "static/js/2.0292a1e1.chunk.js.map": "/MyDoctor/static/js/2.0292a1e1.chunk.js.map",
     "index.html": "/MyDoctor/index.html",
-    "precache-manifest.fee84ffefe1bb7cc6b201e5a134ffa65.js": "/MyDoctor/precache-manifest.fee84ffefe1bb7cc6b201e5a134ffa65.js",
+    "precache-manifest.de1c5028f5d2b79ef2621cea07cf3a42.js": "/MyDoctor/precache-manifest.de1c5028f5d2b79ef2621cea07cf3a42.js",
     "service-worker.js": "/MyDoctor/service-worker.js",
     "static/css/main.18e05f4c.chunk.css.map": "/MyDoctor/static/css/main.18e05f4c.chunk.css.map",
     "static/js/2.0292a1e1.chunk.js.LICENSE.txt": "/MyDoctor/static/js/2.0292a1e1.chunk.js.LICENSE.txt",
@@ -21,6 +21,6 @@
     "static/js/runtime-main.d24f4491.js",
     "static/js/2.0292a1e1.chunk.js",
     "static/css/main.18e05f4c.chunk.css",
-    "static/js/main.c66dc985.chunk.js"
+    "static/js/main.016d6b75.chunk.js"
   ]
 }
